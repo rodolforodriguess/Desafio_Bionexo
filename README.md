@@ -23,7 +23,7 @@ Obs: O Arquivo cucumber.yml contém opções de perfis na execução dos cenári
 
 Na pasta reports, é possível ver o relatório do cucumber e o da lib Report Builder que é mais "encorpado".
 
-As features estão separadas por funcionalidade conforme o site https://automacaocombatista.herokuapp.com/treinamento/home. A partir do menu mudança de foco, só tem uma feature para todos submenus.
+As features estão separadas por funcionalidade conforme o site https://automacaocombatista.herokuapp.com/treinamento/home. A partir do menu mudança de foco, só tem uma feature, page e step definition para todos submenus.
 
 Faltou criar as features e scripts das menus Radio e Checks Box, Textos e Tabelas. 
 
