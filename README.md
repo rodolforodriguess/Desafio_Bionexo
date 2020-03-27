@@ -17,8 +17,12 @@ Abaixo os links: https://code.visualstudio.com/download https://cmder.net
 
 6º Agora é só rodar um cucumber --t e a tag do cenário como:
 
-cucumber --t @buscar
+cucumber --t @criar_user  
 
 Obs: O Arquivo cucumber.yml contém opções de perfis na execução dos cenários com possibilidade de rodar no firefox e chrome headless que é muito útil em uma esteira CI/CD além da troca de ambientes, neste caso teria que ser criado um .yml dentro da pasta ambiente dentro de support.
 
 Na pasta reports, é possível ver o relatório do cucumber e o da lib Report Builder que é mais "encorpado".
+
+As features estão separadas por funcionalidade conforme o site https://automacaocombatista.herokuapp.com/treinamento/home. Faltou criar as features e scripts das funcionalidades Radio e Checks Box, Textos e Tabelas.
+
+
